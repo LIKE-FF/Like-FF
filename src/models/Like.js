@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('suceco');
 
 const likeSchema = new mongoose.Schema({
     playerId: {
